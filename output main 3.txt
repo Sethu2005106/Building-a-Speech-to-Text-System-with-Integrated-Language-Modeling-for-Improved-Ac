@@ -1,0 +1,9 @@
+PS D:\gemini voice>  & 'c:\Users\rseth\AppData\Local\Programs\Python\Python312\python.exe' 'c:\Users\rseth\.vscode\extensions\ms-python.debugpy-2025.6.0-win32-x64\bundled\libs\debugpy\launcher' '63831' '--' 'D:\gemini voice\main 3.py'
+Recording...
+Saved recording to sample.wav
+Some weights of Wav2Vec2ForCTC were not initialized from the model checkpoint at facebook/wav2vec2-base-960h and are newly initialized: ['wav2vec2.masked_spec_embed']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Model loaded successfully!
+
+Transcription Result:
+WELCOME TO MY WORD
